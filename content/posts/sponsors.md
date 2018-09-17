@@ -8,5 +8,5 @@ draft: false
 
 <!--more-->
 
-- 中本聪孵化器 : 10000 rmb
+- 中本聪孵化器 : 15000 rmb
 - lastpurse.com : 0.5 bch
