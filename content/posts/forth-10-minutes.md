@@ -6,3 +6,4 @@ draft: false
 
 https://rosetta.cash/talks/forth-in-10-minutes
 
+<!--more-->
